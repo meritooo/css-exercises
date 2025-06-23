@@ -1,0 +1,18 @@
+.meow{
+    background-color: lightsalmon;
+}
+
+.meow.cool{
+    font-size: 32px;
+}
+
+#oneID{
+    color: blue;
+    font-size: 35px;
+}
+
+#twoID{
+    font-weight: bold;
+    font-size: 30px;
+    background-color: greenyellow;
+}
